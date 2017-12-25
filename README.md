@@ -22,4 +22,6 @@ Para ler a descrição completa do problema, acessar o documento [Enunciado.pdf]
 
 ## Testes
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\int&space;x^{4}" target="_blank"><img src="https://latex.codecogs.com/png.latex?\int&space;x^{4}" title="\int x^{4}" /></a>
+<p align="left">
+  <img src="https://github.com/matheusrmorgado/QRCode/blob/master/padrao.png">
+</p>
