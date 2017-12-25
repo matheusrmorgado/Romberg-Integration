@@ -22,6 +22,6 @@ Para ler a descrição completa do problema, acessar o documento [Enunciado.pdf]
 
 ## Testes
 
-```mathjax
+```latex
 x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 ```
