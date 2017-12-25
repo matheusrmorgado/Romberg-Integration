@@ -57,7 +57,7 @@ def romb(a, b, n, ε, ITMAX, fx):
 
 def main():
 
-    print ("\n------------------------ EP3 MAP3121 ------------------------\n")
+    print ("\n- Método de Romberg para integração de funções\n")
 
     fx = input(("Digite a f(x) que deseja-se integrar: "))
 
