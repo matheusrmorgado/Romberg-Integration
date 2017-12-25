@@ -19,7 +19,7 @@ def trapz(a, b, T, i, fx):
 
 def romb(a, b, n, ε, ITMAX, fx):
 
-    #Constrói um vetor utilizando o método de triângulos
+    #Constrói um vetor utilizando o método dos triângulos
     for i in range (0, n+1):
         if (i == 0):
             H = []
