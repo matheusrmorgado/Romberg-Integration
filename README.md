@@ -22,6 +22,42 @@ Para ler a descrição completa do problema, acessar o documento [Enunciado.pdf]
 
 ## Testes
 
+### Integrando regular
+
 <p align="left">
-  <img src="https://github.com/matheusrmorgado/Romberg-Integration/blob/master/equations/eq.png">
+  <img src="https://github.com/matheusrmorgado/Romberg-Integration/blob/master/equations/eq1.png">
+</p>
+
+<p align="left">
+  <img src="https://github.com/matheusrmorgado/Romberg-Integration/blob/master/equations/eq1-solved.PNG">
+</p>
+
+### Crescimento rápido da derivada
+
+<p align="left">
+  <img src="https://github.com/matheusrmorgado/Romberg-Integration/blob/master/equations/eq2.png">
+</p>
+
+<p align="left">
+  <img src="https://github.com/matheusrmorgado/Romberg-Integration/blob/master/equations/eq2-solved.PNG">
+</p>
+
+### Integrando periódico: Jo(1)
+
+<p align="left">
+  <img src="https://github.com/matheusrmorgado/Romberg-Integration/blob/master/equations/eq3.png">
+</p>
+
+<p align="left">
+  <img src="https://github.com/matheusrmorgado/Romberg-Integration/blob/master/equations/eq3-solved.PNG">
+</p>
+
+### Derivada infinita
+
+<p align="left">
+  <img src="https://github.com/matheusrmorgado/Romberg-Integration/blob/master/equations/eq4.png">
+</p>
+
+<p align="left">
+  <img src="https://github.com/matheusrmorgado/Romberg-Integration/blob/master/equations/eq4-solved.PNG">
 </p>
