@@ -22,6 +22,10 @@ Para ler a descrição completa do problema, acessar o documento [Enunciado.pdf]
 
 ## Testes
 
-```latex
-x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+{math: latex}
+```
+\left|\sum_{i=1}^n a_ib_i\right|
+\le
+\left(\sum_{i=1}^n a_i^2\right)^{1/2}
+\left(\sum_{i=1}^n b_i^2\right)^{1/2}
 ```
