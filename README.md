@@ -6,13 +6,13 @@ O método de Romberg é usado para o cálculo da integral definida de uma dada f
 
 O objetivo desse trabalho consistiu em desenvolver duas funções:
 
-```python
+```
 romb(a,b,n,ε,ITMAX,fx)
 ```
 
-Para cálculo da integral da função fx, onde os parâmetros são: *a* e *b*, extemos do intervalo de integração; *n*, número inteiro especificando quantos valores são usados na coluna *k* = 0 (*n* + 1 valores); *ε*, tolerância; e *ITMAX*, número máximo de iterações.
+Para cálculo da integral da função *fx*, onde os parâmetros são: *a* e *b*, extemos do intervalo de integração; *n*, número inteiro especificando quantos valores são usados na coluna *k* = 0 (*n* + 1 valores); *ε*, tolerância; e *ITMAX*, número máximo de iterações.
 
-```python
+```
 trapz(a,b,T,i,fx)
 ```
 
@@ -20,7 +20,7 @@ Para uso da fórmula dos trapézios e usada pela rotina do método de Romberg, o
 
 Para ler a descrição completa do problema, acesse: [Enunciado.pdf](https://github.com/matheusrmorgado/Romberg-Integration/blob/master/Enunciado.pdf).
 
-## Testes
+## Testes do programa
 
 ### Integrando regular
 
