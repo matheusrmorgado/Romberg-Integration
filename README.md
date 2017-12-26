@@ -18,7 +18,7 @@ trapz(a,b,T,i,fx)
 
 Para uso da fórmula dos trapézios e usada pela rotina do método de Romberg, onde os novos parâmetros de entrada são: *i*, referente ao número de intervalos dos trapézios; e *T* valor calculado anteriormente pela fórmula dos trapézios.
 
-Para ler a descrição completa do problema, acessar o documento [Enunciado.pdf](https://github.com/matheusrmorgado/Romberg-Integration/blob/master/Enunciado.pdf).
+Para ler a descrição completa do problema, acesse: [Enunciado.pdf](https://github.com/matheusrmorgado/Romberg-Integration/blob/master/Enunciado.pdf).
 
 ## Testes
 
