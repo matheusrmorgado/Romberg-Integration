@@ -20,7 +20,7 @@ Para uso da fórmula dos trapézios e usada pela rotina do método de Romberg, o
 
 Para ler a descrição completa do problema, acesse: [Enunciado.pdf](https://github.com/matheusrmorgado/Romberg-Integration/blob/master/Enunciado.pdf).
 
-## Testes do programa
+## Funcionamento do programa *romberg.py*
 
 ### Integrando regular
 
